@@ -38,6 +38,11 @@ To get started with this project, follow these steps:
 
 https://app.powerbi.com/links/JigUZpio7Z?ctid=d55c8df8-1f6c-4d62-8e12-fdcfe2b2e8d6&pbi_source=linkShare&bookmarkGuid=0fd56a27-30ca-4b8b-85f0-7ca0c18d414a
 
+![image](https://github.com/user-attachments/assets/c6ec3a08-fb1e-44fe-92ea-c30bfccfbd0e)
+![image](https://github.com/user-attachments/assets/624f760f-9dd9-4a91-bbf4-b3d4dac98cd5)
+![image](https://github.com/user-attachments/assets/0af517fb-94d5-4b90-9b52-95aeab0391be)
+
+
 
 ## Usage:
 
